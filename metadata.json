@@ -1,0 +1,5 @@
+{
+  "name": "Customer Segmentation AI",
+  "description": "An interactive web application that uses K-Means clustering to segment customers based on their spending behavior and generates targeted marketing strategies for each segment using the Gemini API.",
+  "requestFramePermissions": []
+}
